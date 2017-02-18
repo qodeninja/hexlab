@@ -1,0 +1,23 @@
+{
+  "name": "hexlab",
+  "version": "0.1.3",
+  "description": "Private Lab Management Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qodeninja/hexlab.git"
+  },
+  "keywords": [
+    "lab",
+    "hex",
+    "hexlab",
+    "cli"
+  ],
+  "author": "Qodeninja <qodeninja@outlook.com> (http://qodeparty.com/dist/hexlab)",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/qodeninja/hexlab",
+  "readmeFilename": "README.md"
+}
